@@ -8,6 +8,7 @@ assignees: ''
 ---
 
 ##설명(Description)
+
 - [문제 설명]
 >
 - [재현 단계]
@@ -20,6 +21,7 @@ assignees: ''
 >
 
 ##해결(Resolved)
+
 - [원인 분석]
 >
 - [수정 내용]
