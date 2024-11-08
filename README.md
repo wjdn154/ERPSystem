@@ -15,10 +15,11 @@
 
 ### 재무회계
 - ![image](https://github.com/user-attachments/assets/3152fcd2-5be4-4187-99dc-94d747779346)
-- **기초정보관리**: 거래처 관리, 계정과목 관리, 환경설정 관리
-- **전표관리**: 일반 전표 입력, 매입/매출 전표 조회, 매입/매출 전표 승인
-- **장부관리**: 거래처 원장, 잔고 원장, 총계정 원장, 매입 매출 장
-- **결산/재무제표**: 재무상태표, 손익계산서
+- ![image](https://github.com/user-attachments/assets/075a77ac-074c-4e69-8e57-87041c34b07a)
+- ![image](https://github.com/user-attachments/assets/8d7e6f5c-a3b4-4218-bd96-1f147cc38841)
+- ![image](https://github.com/user-attachments/assets/b7b4d6ed-3107-404d-abbd-92469dd1b38f)
+
+
 
 ### 인사관리
 - **기초정보관리**: 사원 관리, 사용자 관리, 부서 관리
