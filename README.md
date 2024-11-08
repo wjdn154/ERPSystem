@@ -23,8 +23,6 @@
 
 ---
 
-
-
 ### 인사관리
 - **기초정보관리**: 사원 관리, 사용자 관리, 부서 관리
 - **출결관리**: 근태 관리, 휴가 관리
@@ -44,14 +42,14 @@
 - **작업지시 관리**: 작업 지시 등록, 작업 지시 내역 조회
 - **생산실적 관리**: 생산 실적 정보, 생산 실적 분석
 
-3. 사용 기술 스택 (Tech Stack)
-4. 설치 및 실행 방법 (Installation & Setup)
-5. 디렉토리 구조 (Project Structure)
-6. API 문서 (API Documentation)
-7. 예제 및 스크린샷 (Examples & Screenshots)
-8. 개발 과정 및 성과 (Development Process & Milestones)
-9. 테스트 방법 (Testing)
-10. 기여 방법 (Contributing)
-11. 문제 해결 및 FAQ (Troubleshooting & FAQ)
-12. 라이선스 (License)
-13. 문의 및 연락처 (Contact Information)
+## 3. 사용 기술 스택 (Tech Stack)
+## 4. 설치 및 실행 방법 (Installation & Setup)
+## 5. 디렉토리 구조 (Project Structure)
+## 6. API 문서 (API Documentation)
+## 7. 예제 및 스크린샷 (Examples & Screenshots)
+## 8. 개발 과정 및 성과 (Development Process & Milestones)
+## 9. 테스트 방법 (Testing)
+## 10. 기여 방법 (Contributing)
+## 11. 문제 해결 및 FAQ (Troubleshooting & FAQ)
+## 12. 라이선스 (License)
+## 13. 문의 및 연락처 (Contact Information)
