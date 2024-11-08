@@ -43,13 +43,6 @@
 ![image](https://github.com/user-attachments/assets/c54cdc7d-ad7c-4814-a08d-5173d7fe46c4) | ![image](https://github.com/user-attachments/assets/ba59e8bd-56d3-49b9-b405-d7f68d6c6cf7)
 ---|---|
 
-## 4. 설치 및 실행 방법 (Installation & Setup)
-## 5. 디렉토리 구조 (Project Structure)
-## 6. API 문서 (API Documentation)
-## 7. 예제 및 스크린샷 (Examples & Screenshots)
-## 8. 개발 과정 및 성과 (Development Process & Milestones)
-## 9. 테스트 방법 (Testing)
-## 10. 기여 방법 (Contributing)
-## 11. 문제 해결 및 FAQ (Troubleshooting & FAQ)
-## 12. 라이선스 (License)
-## 13. 문의 및 연락처 (Contact Information)
+## 4. API 문서 (API Documentation)
+## 5. 개발 과정 및 성과 (Development Process & Milestones)
+## 6. 트러블슈팅 (Troubleshooting)
