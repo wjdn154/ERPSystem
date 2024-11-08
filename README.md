@@ -2,38 +2,52 @@
 
 ## 1. 프로젝트 개요 (Project Overview)
 
-이 프로젝트는 단계별로 진행되며, 학습을 통해 기술 스택을 확장하고 클라우드 환경으로 점진적으로 발전시킴. 각 단계는 기본 기술 이해부터 서비스 분할 아키텍처까지의 과정을 포함함.
+이 프로젝트는 이론과 실습을 병행하며 단계별 학습을 통해 ERP 시스템 구축에 필요한 기술을 심화해 나가는 과정으로 설계됨. 각 단계는 사용 기술과 목표에 따라 구분되며, 실무 적용 능력을 높이기 위한 학습을 목표로 함.
 
-### 단계별 프로젝트 학습 목표
+### 단계별 학습 및 구현 목표
 
-1. **1단계: 순수 자바로 기본 시스템 구축**
-   - **목표**: 객체지향 프로그래밍 및 기초적인 ERP 시스템 설계 개념을 학습.
-   - **주요 학습 포인트**:
-     - 순수 자바를 사용하여 기초적인 ERP 기능을 구현함.
-     - 데이터 처리 로직 및 객체 간 상호작용을 설계하고 구현하는 과정 학습.
-     - 깃허브 주소: [GitHub Repository - Java Version](#)
+#### Phase 1: 자바를 활용한 안정적인 ERP 기초 시스템 구축
+- **목표**: 자바 MVC 아키텍처와 데이터베이스 설계 기술 습득 및 이해.
+- **추진 전략**:
+  - 순수 자바와 MVC 아키텍처를 사용하여 ERP 시스템의 기본 구조를 이해하고 실습을 통해 기초를 다짐.
+  - 기초적인 프로그래밍 기술과 데이터베이스 설계 능력을 키우는 데 초점을 둠.
+- **기대 효과**:
+  - 종합적인 기초 이해: 다양한 기술 분야를 체계적으로 학습하며 각 기술의 상호작용을 이해.
+  - 실무 적용 능력 향상: ERP 시스템의 기초 기능을 직접 구현하여 실습.
 
-2. **2단계: Spring Boot와 React로 시스템 리팩토링**
-   - **목표**: 프론트엔드와 백엔드의 분리, 스프링 프레임워크와 React를 활용한 웹 애플리케이션 아키텍처 학습.
-   - **주요 학습 포인트**:
-     - Spring Boot를 사용하여 백엔드를 구축하고, RESTful API 설계 및 구현.
-     - React를 통해 프론트엔드와의 연결 및 사용자 인터페이스 개선.
-     - 데이터베이스 연동 및 간단한 CRUD 기능을 통한 실습.
-     - 깃허브 주소: [GitHub Repository - Spring Boot & React Version](#)
+#### Phase 2: Spring Boot와 React를 활용한 웹 통합 및 동적 기능 개발
+- **목표**: Spring Boot와 React를 활용하여 웹 개발 능력 향상.
+- **추진 전략**:
+  - Spring Boot를 통한 REST API 설계 및 사용자 인증 시스템 구축 실습.
+  - React를 통한 사용자 경험 중심의 애플리케이션 개발 기술 학습.
+- **기대 효과**:
+  - 사용자 중심의 UI/UX 개발 경험을 통해 ERP 시스템의 사용성을 높이는 방법을 학습.
+  - 데이터베이스와의 연동을 통한 CRUD 기능 구현으로 실무적인 웹 개발 능력 향상.
 
-3. **3단계: AWS EKS를 이용한 마이크로서비스 아키텍처 구축**
-   - **목표**: AWS EKS와 Kubernetes를 사용하여 서비스를 마이크로서비스로 분할하고, 확장성과 관리 효율성을 높임.
-   - **주요 학습 포인트**:
-     - Kubernetes 클러스터 설정 및 EKS 배포 과정 이해.
-     - 백엔드 서비스를 분할하여 각 서비스가 독립적으로 배포, 확장될 수 있도록 설정.
-     - VPC, IAM, 로드 밸런서, CI/CD와 같은 클라우드 컴퓨팅 개념 학습 및 구현.
-     - 각 서비스별 GitHub 주소:
-       - [GitHub Repository - Service 1](#)
-       - [GitHub Repository - Service 2](#)
-       - [GitHub Repository - Service 3](#)
-       - …
+#### Phase 3: AWS와 Docker를 활용한 클라우드 기반 ERP 구현
+- **목표**: AWS EKS를 통한 클라우드 네이티브 ERP 시스템 구축 능력 향상.
+- **추진 전략**:
+  - AWS EKS와 Docker를 활용하여 클라우드 환경에 맞춘 ERP 아키텍처를 구성.
+  - CI/CD 구축과 MSA(Microservices Architecture) 기반으로 글로벌 환경에서 운영 가능한 시스템을 설계.
+- **기대 효과**:
+  - 확장성 강화: 클라우드 기반의 인프라로 전환하며 시스템 확장성 및 관리 효율성 향상.
+  - DevOps와 클라우드 환경에 맞는 배포 및 운영 자동화 경험을 통해, 실무에서 요구되는 클라우드 솔루션 기술을 습득.
+
+### 프로젝트 추진 배경과 학습 효과
+- **이론과 실습의 병행 학습**을 통해 ERP 시스템의 기본부터 고급 아키텍처 설계까지 단계별로 실무에 필요한 기술을 체계적으로 학습함.
+- 각 단계는 기업의 실제 상황에서 요구되는 문제 해결 능력과 효율적인 시스템 운영 역량을 높이는 데 목적을 둠.
 
 ---
+
+![image](https://github.com/user-attachments/assets/dfbac4d3-a024-454b-909f-3a9e42d97d07)
+
+
+---
+
+### 단계별 GitHub 저장소
+- **Phase 1**: [GitHub Repository - Java Version](#)
+- **Phase 2**: [GitHub Repository - Spring Boot & React Version](#)
+- **Phase 3**: [GitHub Repository - EKS Backend Service 1](#), [GitHub Repository - EKS Backend Service 2](#), ...
 
 ### 팀 구성 및 역할 분담 (Team Composition and Roles)
 <div style="display: flex; justify-content: center;">
