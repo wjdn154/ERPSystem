@@ -17,7 +17,6 @@
 ### ERP 도입 및 적용 현장 견학
 ![image](https://github.com/user-attachments/assets/64767f44-d5f1-4dba-98f6-c2c3600b065f)
 ![image](https://github.com/user-attachments/assets/f1e399de-7447-4515-b359-6f4ede88c135)
-![image](https://github.com/user-attachments/assets/8805c3db-2184-46d1-b2bb-51e559d0017f)
 
 ## 2. 주요 기능 (Key Features)
 
