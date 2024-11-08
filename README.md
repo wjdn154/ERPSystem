@@ -14,7 +14,8 @@
 
 ### 단계별 GitHub 저장소
 - **Phase 1**: [GitHub Repository - Java Version](#)
-- **Phase 2**: [GitHub Repository - Spring Boot & React Version](#)
+- **Phase 2**:
+   - [GitHub Repository - Spring Boot & React Version](https://github.com/wjdn154/ERPSystem-Phase2-Backend)
 - **Phase 3**: 
    - [GitHub Repository - EKS Backend Service 1](#)
    - [GitHub Repository - EKS Backend Service 2](#)
