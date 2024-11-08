@@ -64,6 +64,7 @@
 ![image](https://github.com/user-attachments/assets/c54cdc7d-ad7c-4814-a08d-5173d7fe46c4) | ![image](https://github.com/user-attachments/assets/ba59e8bd-56d3-49b9-b405-d7f68d6c6cf7)
 ---|---|
 
-## 4. API 문서 (API Documentation)
-## 5. 개발 과정 및 성과 (Development Process & Milestones)
-## 6. 트러블슈팅 (Troubleshooting)
+## 4. 클라우드 아키텍처 (Cloud Architecture)
+## 5. API 문서 (API Documentation)
+## 6. 개발 과정 및 성과 (Development Process & Milestones)
+## 7. 트러블슈팅 (Troubleshooting)
