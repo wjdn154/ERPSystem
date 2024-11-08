@@ -19,23 +19,22 @@
 ![image](https://github.com/user-attachments/assets/8d7e6f5c-a3b4-4218-bd96-1f147cc38841) | ![image](https://github.com/user-attachments/assets/b7b4d6ed-3107-404d-abbd-92469dd1b38f)
 
 ### 인사관리
-- **기초정보관리**: 사원 관리, 사용자 관리, 부서 관리
-- **출결관리**: 근태 관리, 휴가 관리
-- **급여관리**: 급여 산정, 급여 등록, 사회 보험 관리
+![image](https://github.com/user-attachments/assets/5c8059a0-a023-44f2-b975-e739fb25eb6f) | ![image](https://github.com/user-attachments/assets/332abef6-e03c-4ff8-b986-d3e37e273253)
+---|--|
+![image](https://github.com/user-attachments/assets/83ff6305-7fc5-4d0c-a87d-313b83c1c587) | ![image](https://github.com/user-attachments/assets/02e5bdc5-d2bc-4654-add5-6dcf2feb0a9d)
+
+
 
 ### 물류관리
-- **기초정보관리**: 품목 등록, 창고 등록
-- **영업관리**: 판매 계획, 견적서, 주문서 관리
-- **구매관리**: 발주 요청, 입고 예정, 구매 요청
-- **출하 및 입고 관리**: 출하 예정, 입고 예정, 출고 관리
-- **재고조정**: 재고조정 진단, 재고실사조회, 재고실사 현황
+![image](https://github.com/user-attachments/assets/3f8fb2a1-13b6-46de-9040-23273829f16d) | ![image](https://github.com/user-attachments/assets/a7330e97-ec00-4c8a-96aa-77a9ac7739a1)
+---|--|
+![image](https://github.com/user-attachments/assets/15fd485f-7135-4496-9217-8fbbe0ff4331) | ![image](https://github.com/user-attachments/assets/3503067b-52ce-4359-acf9-4f45e6cf61ec)
 
 ### 생산관리
-- **기초정보관리**: 작업장 관리, 공정관리, BOM 관리
-- **자원관리**: 작업 자원 관리, 설비 정보 관리
-- **생산 운영 및 계획**: 생산 계획 관리, 주 생산 계획 관리
-- **작업지시 관리**: 작업 지시 등록, 작업 지시 내역 조회
-- **생산실적 관리**: 생산 실적 정보, 생산 실적 분석
+![image](https://github.com/user-attachments/assets/9d36af78-ddba-4e85-8367-18e34035e1ff) | ![image](https://github.com/user-attachments/assets/5a8a0de4-61de-4a9a-b786-cf6324bd4135)
+---|--|
+![image](https://github.com/user-attachments/assets/bde469f2-68f7-42cc-94ad-52e4a5912690) | ![image](https://github.com/user-attachments/assets/ff8e0f85-b436-4dd2-bc7a-6fdeeb6818f2)
+
 
 ## 3. 사용 기술 스택 (Tech Stack)
 ## 4. 설치 및 실행 방법 (Installation & Setup)
