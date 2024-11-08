@@ -33,10 +33,8 @@
 ### ERP 도입 및 적용 현장 견학 (Field Study for ERP Implementation and Application)
 
 <div style="display: flex; justify-content: space-around; gap: 10px; margin-top: 20px;">
-    <img src="https://github.com/user-attachments/assets/64767f44-d5f1-4dba-98f6-c2c3600b065f" alt="현장 견학 1" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-</div>
-<div style="display: flex; justify-content: space-around; gap: 10px; margin-top: 20px;">
-    <img src="https://github.com/user-attachments/assets/49f30b4c-6217-41a0-b955-4c7909e559a8" alt="현장 견학 2" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://github.com/user-attachments/assets/64767f44-d5f1-4dba-98f6-c2c3600b065f" alt="현장 견학 1" style="width: 48%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://github.com/user-attachments/assets/49f30b4c-6217-41a0-b955-4c7909e559a8" alt="현장 견학 2" style="width: 48%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
 ---
