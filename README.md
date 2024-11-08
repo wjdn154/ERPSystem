@@ -13,7 +13,8 @@
 ---
 
 ### 단계별 GitHub 저장소
-- **Phase 1**: [GitHub Repository - Java Version](https://github.com/wjdn154/ERPSystem-Phase1)
+- **Phase 1**:
+   - [GitHub Repository - Java Version](https://github.com/wjdn154/ERPSystem-Phase1)
 - **Phase 2**:
    - [GitHub Repository - Backend](https://github.com/wjdn154/ERPSystem-Phase2-Backend)
    - [GitHub Repository - Frontend](https://github.com/wjdn154/ERPSystem-Phase2-Frontend)
