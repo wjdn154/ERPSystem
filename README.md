@@ -8,21 +8,17 @@
 
 ### 단계별 프로젝트 진행
 
-#### Phase 1: 자바 기반 기초 ERP 시스템 구축
-
 ![이론과 실습의 병행 학습](https://github.com/user-attachments/assets/d37b27b6-ee40-4978-b8d7-71268bdc8c03)
+
+#### Phase 1: 자바 기반 기초 ERP 시스템 구축
 
 - **설명**: 자바와 MVC 아키텍처를 사용하여 인사관리, 사원 관리, 부서 관리 등 ERP 시스템의 기본 기능을 구축하고 데이터베이스 연동을 구현함.
 
 #### Phase 2: Spring Boot와 React를 통한 웹 통합 및 기능 확장
 
-![이론과 실습의 병행 학습](https://github.com/user-attachments/assets/d37b27b6-ee40-4978-b8d7-71268bdc8c03)
-
 - **설명**: Spring Boot와 React를 사용하여 웹 환경에서 ERP 시스템을 운영할 수 있도록 통합하고, 사용자 인증 및 CRUD 기능을 웹으로 확장함.
 
 #### Phase 3: AWS EKS 및 마이크로서비스 아키텍처로 클라우드 기반 ERP 구현
-
-![이론과 실습의 병행 학습](https://github.com/user-attachments/assets/d37b27b6-ee40-4978-b8d7-71268bdc8c03)
 
 - **설명**: AWS EKS와 마이크로서비스 아키텍처를 통해 ERP 시스템을 클라우드에 배포하고, CI/CD 파이프라인과 모니터링을 도입하여 운영 효율성을 극대화함.
 
