@@ -1,22 +1,36 @@
 # Think Global, Act Local ERP System
 
-## 1. 프로젝트 설명 (About)
-- **실시간 데이터 공유**
-  - 기업 내 모든 부서가 최신 데이터를 실시간으로 공유할 수 있어 빠르고 정확한 결정을 내릴 수 있습니다.
-  - 빠르게 변하는 시장 환경에서 기업의 민첩성을 높이는 데 중점을 둡니다.
-- **사용자 친화적 인터페이스**
-  - 직관적이고 간편한 UI를 통해 비즈니스 관리 경험을 향상시킵니다.
-  - ERP 시스템이 처음인 사용자도 쉽게 사용할 수 있도록 설계되었으며, 일상적인 업무가 손쉽게 처리됩니다.
-- **ESG 경영 지원**
-  - 지속 가능한 성장을 목표로, 환경, 사회, 지배구조(ESG) 지표를 쉽게 분석하고 관리할 수 있는 기능을 제공합니다.
-  - ERP 시스템이 단순한 자원 관리에서 더 나아가, 기업의 책임과 지속 가능성을 실현하는 도구로 자리 잡도록 돕습니다.
-### 팀 구성 및 역할 분담
-![image](https://github.com/user-attachments/assets/874b2ec8-ebae-4542-ac87-a0a59489f1d7)
+## 1. 프로젝트 개요 (Project Overview)
 
+- **실시간 데이터 통합과 신속한 의사결정**
+  - 모든 부서가 최신 데이터를 실시간으로 공유하여 빠르고 정확한 의사결정을 지원함.
+  - 빠르게 변화하는 시장에서 기업의 민첩성을 높이기 위해 설계됨.
+  
+- **사용자 중심의 직관적 인터페이스**
+  - 사용자의 비즈니스 관리 경험을 향상시키는 간편한 UI 제공.
+  - ERP 시스템을 처음 접하는 사용자도 손쉽게 사용할 수 있도록 설계됨.
+  
+- **ESG 경영 지원 기능**
+  - 환경, 사회, 지배구조(ESG) 관련 지표를 손쉽게 분석 및 관리할 수 있는 기능 제공.
+  - 단순한 자원 관리 이상의 역할을 수행하여 기업의 지속 가능성 실현에 기여함.
 
-### ERP 도입 및 적용 현장 견학
-![image](https://github.com/user-attachments/assets/64767f44-d5f1-4dba-98f6-c2c3600b065f)
-![image](https://github.com/user-attachments/assets/f1e399de-7447-4515-b359-6f4ede88c135)
+---
+
+### 팀 구성 및 역할 분담 (Team Composition and Roles)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/874b2ec8-ebae-4542-ac87-a0a59489f1d7" alt="팀 구성 및 역할 분담" style="width: 80%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
+---
+
+### ERP 도입 및 적용 현장 견학 (Field Study for ERP Implementation and Application)
+
+<div style="display: flex; justify-content: space-around; gap: 10px; margin-top: 20px;">
+    <img src="https://github.com/user-attachments/assets/64767f44-d5f1-4dba-98f6-c2c3600b065f" alt="현장 견학 1" style="width: 48%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://github.com/user-attachments/assets/f1e399de-7447-4515-b359-6f4ede88c135" alt="현장 견학 2" style="width: 48%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+</div>
+
+---
 
 ## 2. 주요 기능 (Key Features)
 
