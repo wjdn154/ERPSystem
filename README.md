@@ -19,8 +19,6 @@
 ![image](https://github.com/user-attachments/assets/8d7e6f5c-a3b4-4218-bd96-1f147cc38841) | ![image](https://github.com/user-attachments/assets/b7b4d6ed-3107-404d-abbd-92469dd1b38f)
 ---|--|
 
----
-
 ### 인사관리
 - **기초정보관리**: 사원 관리, 사용자 관리, 부서 관리
 - **출결관리**: 근태 관리, 휴가 관리
