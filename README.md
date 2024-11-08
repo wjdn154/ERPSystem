@@ -10,6 +10,16 @@
 - **ESG 경영 지원**
   - 지속 가능한 성장을 목표로, 환경, 사회, 지배구조(ESG) 지표를 쉽게 분석하고 관리할 수 있는 기능을 제공합니다.
   - ERP 시스템이 단순한 자원 관리에서 더 나아가, 기업의 책임과 지속 가능성을 실현하는 도구로 자리 잡도록 돕습니다.
+### 팀 구성 및 역할 분담
+![image](https://github.com/user-attachments/assets/874b2ec8-ebae-4542-ac87-a0a59489f1d7)
+
+
+### ERP 도입 및 적용 현장 견학
+![image](https://github.com/user-attachments/assets/64767f44-d5f1-4dba-98f6-c2c3600b065f)
+![image](https://github.com/user-attachments/assets/f1e399de-7447-4515-b359-6f4ede88c135) | ![image](https://github.com/user-attachments/assets/8805c3db-2184-46d1-b2bb-51e559d0017f)
+---|---|
+
+
 
 ## 2. 주요 기능 (Key Features)
 
