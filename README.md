@@ -45,7 +45,7 @@
 ## 2. 시스템 아키텍처 (System Architecture)
 
 ### 모듈별 핵심 기능
-![image](https://github.com/user-attachments/assets/d44e1f69-022a-4bca-8b73-d9d7c1291104)
+![image](https://github.com/user-attachments/assets/fef37ab9-c968-4451-9b82-672492d32784)
 
 ### 업무 프로세스 흐름도
 ![image](https://github.com/user-attachments/assets/13ca9653-d059-44ab-a2a5-691eef743145)
