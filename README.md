@@ -25,14 +25,14 @@
    - [GitHub Repository - Backend Service (LogisticsProduction)](https://github.com/wjdn154/ERPSystem-Phase3-Backend-LogisticsProduction)
    - [GitHub Repository - Frontend](https://github.com/wjdn154/ERPSystem-Phase3-Frontend)
 
-### 팀 구성 및 역할 분담 (Team Composition and Roles)
+### 팀 구성 및 역할 분담
 <div style="display: flex; justify-content: center;">
     <img src="https://github.com/user-attachments/assets/874b2ec8-ebae-4542-ac87-a0a59489f1d7" alt="팀 구성 및 역할 분담" style="width: 100%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
 ---
 
-### 문제 해결 사례 - ERP 도입 및 적용 현장 견학 (Troubleshooting Examples)
+### 문제 해결 사례 - ERP 도입 및 적용 현장 견학
 
 <div style="display: flex; justify-content: space-around; gap: 10px; margin-top: 20px;">
     <img src="https://github.com/user-attachments/assets/64767f44-d5f1-4dba-98f6-c2c3600b065f" alt="현장 견학 1" style="width: 48%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
