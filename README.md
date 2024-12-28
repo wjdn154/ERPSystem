@@ -50,25 +50,22 @@
 ### 업무 프로세스 흐름도
 ![image](https://github.com/user-attachments/assets/9976c318-f96e-440d-b119-3b2008bd83ef)
 
-
-주요 기능 (Key Features)
-
-### 재무회계
+### 주요 기능 - 재무회계
 | ![image](https://github.com/user-attachments/assets/3152fcd2-5be4-4187-99dc-94d747779346) | ![image](https://github.com/user-attachments/assets/b7b4d6ed-3107-404d-abbd-92469dd1b38f) |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/075a77ac-074c-4e69-8e57-87041c34b07a) | ![image](https://github.com/user-attachments/assets/8d7e6f5c-a3b4-4218-bd96-1f147cc38841) |
 
-### 인사관리
+### 주요 기능 - 인사관리
 | ![image](https://github.com/user-attachments/assets/5c8059a0-a023-44f2-b975-e739fb25eb6f) | ![image](https://github.com/user-attachments/assets/02e5bdc5-d2bc-4654-add5-6dcf2feb0a9d) |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/5a750574-4f6e-4cd2-a550-613eb0cb3620) | ![image](https://github.com/user-attachments/assets/83ff6305-7fc5-4d0c-a87d-313b83c1c587) |
 
-### 물류관리
+### 주요 기능 - 물류관리
 | ![image](https://github.com/user-attachments/assets/3f8fb2a1-13b6-46de-9040-23273829f16d) | ![image](https://github.com/user-attachments/assets/3503067b-52ce-4359-acf9-4f45e6cf61ec) |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/a7330e97-ec00-4c8a-96aa-77a9ac7739a1) | ![image](https://github.com/user-attachments/assets/15fd485f-7135-4496-9217-8fbbe0ff4331) |
 
-### 생산관리
+### 주요 기능 - 생산관리
 | ![image](https://github.com/user-attachments/assets/9d36af78-ddba-4e85-8367-18e34035e1ff) | ![image](https://github.com/user-attachments/assets/ff8e0f85-b436-4dd2-bc7a-6fdeeb6818f2) |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/5a8a0de4-61de-4a9a-b786-cf6324bd4135) | ![image](https://github.com/user-attachments/assets/bde469f2-68f7-42cc-94ad-52e4a5912690) |
