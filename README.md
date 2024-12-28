@@ -19,9 +19,11 @@
    - [GitHub Repository - Backend](https://github.com/wjdn154/ERPSystem-Phase2-Backend)
    - [GitHub Repository - Frontend](https://github.com/wjdn154/ERPSystem-Phase2-Frontend)
 - **Phase 3**: 
-   - [GitHub Repository - EKS Backend Service 1](#)
-   - [GitHub Repository - EKS Backend Service 2](#)
-   - [GitHub Repository - EKS Backend Service 3](#)
+   - [GitHub Repository - Backend Service Monolithic](https://github.com/wjdn154/ERPSystem-Phase3-Backend-Monolithic)
+   - [GitHub Repository - Backend Service Common](https://github.com/wjdn154/ERPSystem-Phase3-Backend-Common)
+   - [GitHub Repository - Backend Service FinanceHR](https://github.com/wjdn154/ERPSystem-Phase3-Backend-FinanceHR)
+   - [GitHub Repository - Backend Service LogisticsProduction](https://github.com/wjdn154/ERPSystem-Phase3-Backend-LogisticsProduction)
+   - [GitHub Repository - Frontend](https://github.com/wjdn154/ERPSystem-Phase3-Frontend)
 
 ### 팀 구성 및 역할 분담 (Team Composition and Roles)
 <div style="display: flex; justify-content: center;">
