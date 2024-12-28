@@ -68,6 +68,7 @@
 | --- | --- |
 
 ## 4. 클라우드 아키텍처 (Cloud Architecture)
+![image](https://github.com/user-attachments/assets/4c269471-779a-4ed3-8074-d548f8003913)
 - AWS EKS 기반의 클라우드 인프라로 구성.
 - CI/CD 파이프라인을 통해 배포 자동화 및 운영 효율성 강화.
 - 클라우드 환경에서의 확장성 및 가용성을 확보.
