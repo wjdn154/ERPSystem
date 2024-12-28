@@ -65,6 +65,7 @@
 
 ## 3. 사용 기술 스택 (Tech Stack)
 | ![image](https://github.com/user-attachments/assets/c54cdc7d-ad7c-4814-a08d-5173d7fe46c4) | ![image](https://github.com/user-attachments/assets/ba59e8bd-56d3-49b9-b405-d7f68d6c6cf7) |
+| ![image](https://github.com/user-attachments/assets/9bd3b14a-9de5-4731-ab76-dbd5a93c35e0) | ![image](https://github.com/user-attachments/assets/a63a35ba-c304-4248-af65-26c17e914376) |
 | --- | --- |
 
 ## 4. 클라우드 아키텍처 (Cloud Architecture)
