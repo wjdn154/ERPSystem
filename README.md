@@ -37,7 +37,7 @@
 
 <div style="display: flex; justify-content: space-around; gap: 10px; margin-top: 20px;">
     <img src="https://github.com/user-attachments/assets/fc8eb18a-83cf-464d-b630-e84a7950435f" alt="현장 견학 1" style="width: 48%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
-    <img src="https://github.com/user-attachments/assets/1aa43988-ab9c-4435-9fd5-9b313d5ff3b9" alt="현장 견학 2" style="width: 48%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
+    <img src="https://github.com/user-attachments/assets/844c774a-6ccc-4ef9-8f8b-82b02122041e" alt="현장 견학 2" style="width: 48%; height: auto; border-radius: 8px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);">
 </div>
 
 ---
