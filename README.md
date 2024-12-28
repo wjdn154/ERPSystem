@@ -92,11 +92,12 @@
 ## 6. 결론 및 개선방안 (Conclusions & Recommendations)
 
 ### 프로젝트 결과 요약 - 주요 성과 지표(KPI)
-![image](https://github.com/user-attachments/assets/07621e46-c088-4797-a945-f06bd05b9ac6)
+![image](https://github.com/user-attachments/assets/6430a128-349e-486b-96dd-39d946d3a572)
 
 | ![image](https://github.com/user-attachments/assets/b1416730-d17b-492b-8508-7b216e385d75) | ![image](https://github.com/user-attachments/assets/10ac63ab-a9d2-45e2-89fc-38667e68729d) |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/a215526d-152a-40e8-860e-09dbc32a7448) | ![image](https://github.com/user-attachments/assets/71c5f4c2-5f0a-49ad-8e06-363f5010c85b) |
 
-![image](https://github.com/user-attachments/assets/6c516a88-8f15-4b72-b192-04ec194b8ccc)
+![image](https://github.com/user-attachments/assets/2537971c-114e-44c2-8814-682dc0a5f35a)
+
 
