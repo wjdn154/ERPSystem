@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/592e123a-f93f-462c-ae7a-98f06bc29c6d)# Think Global, Act Local ERP System
+# Think Global, Act Local ERP System
 
 ## 1. 프로젝트 개요 (Project Overview)
 
