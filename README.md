@@ -80,14 +80,23 @@
 - CI/CD 파이프라인을 통해 배포 자동화 및 운영 효율성 강화.
 - 클라우드 환경에서의 확장성 및 가용성을 확보.
 
-## 5. API 문서 (API Documentation)
-- 주요 API 목록과 사용 방법에 대한 설명.
-- 각 API의 요청 및 응답 형식과 사용 예제 제공.
+## 5. 주요 과제 (Key challenges)
 
-## 6. 개발 과정 및 성과 (Development Process & Milestones)
-- 프로젝트 주요 단계와 각 단계에서 달성한 목표 설명.
-- 일정 관리 및 성과 측정에 따른 프로젝트 진행 결과 요약.
+### 멀티테넌트 아키텍처와 데이터 관리
+### EKS 기반 인프라 자동화
+### 보안 및 운영 자동화
+### 분산 시스템 및 데이터 처리 최적화
+### 성능 최적화 및 모니터링 구축
+### MSA 서비스 분할 및 성능 부하테스트
 
-## 7. 트러블슈팅 (Troubleshooting)
-- 프로젝트 진행 중 발생한 문제와 해결 과정 설명.
-- 기술적 장애 및 해결 방법에 대한 기록을 통해 추후 참조 가능.
+## 6. 결론 및 개선방안 (Conclusions & Recommendations)
+
+### 프로젝트 결과 요약 - 주요 성과 지표(KPI)
+![image](https://github.com/user-attachments/assets/07621e46-c088-4797-a945-f06bd05b9ac6)
+
+| ![image](https://github.com/user-attachments/assets/b1416730-d17b-492b-8508-7b216e385d75) | ![image](https://github.com/user-attachments/assets/10ac63ab-a9d2-45e2-89fc-38667e68729d) |
+| --- | --- |
+| ![image](https://github.com/user-attachments/assets/a215526d-152a-40e8-860e-09dbc32a7448) | ![image](https://github.com/user-attachments/assets/71c5f4c2-5f0a-49ad-8e06-363f5010c85b) |
+
+![image](https://github.com/user-attachments/assets/6c516a88-8f15-4b72-b192-04ec194b8ccc)
+
