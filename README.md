@@ -43,6 +43,9 @@
 
 ## 2. 주요 기능 (Key Features)
 
+| ![image](https://github.com/user-attachments/assets/d44e1f69-022a-4bca-8b73-d9d7c1291104) | ![image](https://github.com/user-attachments/assets/9976c318-f96e-440d-b119-3b2008bd83ef) |
+| --- | --- |
+
 ### 재무회계
 | ![image](https://github.com/user-attachments/assets/3152fcd2-5be4-4187-99dc-94d747779346) | ![image](https://github.com/user-attachments/assets/b7b4d6ed-3107-404d-abbd-92469dd1b38f) |
 | --- | --- |
