@@ -99,7 +99,11 @@
 | ![image](https://github.com/user-attachments/assets/85bf5439-021b-4bf5-9cc9-309ab1a5da92) | ![image](https://github.com/user-attachments/assets/8fe6a92b-6847-405d-8d56-4bc1ec96a82b) |
 | ![image](https://github.com/user-attachments/assets/532b24a7-0478-47f4-91da-c5f5da2e1e59) | ![image](https://github.com/user-attachments/assets/c8f68deb-9b81-4411-82aa-db25143c1130) |
 | ![image](https://github.com/user-attachments/assets/8be06091-f0a9-4f7e-bfcb-61f31f9eadac) | ![image](https://github.com/user-attachments/assets/172e8729-60b4-4403-87f1-dfc92e087cbc) |
-| ![image](https://github.com/user-attachments/assets/8be06091-f0a9-4f7e-bfcb-61f31f9eadac) | ![image](https://github.com/user-attachments/assets/172e8729-60b4-4403-87f1-dfc92e087cbc) |
+| ![image](https://github.com/user-attachments/assets/b61d056b-30fd-4989-92cd-40a8a0ca50c7) | ![image](https://github.com/user-attachments/assets/044750e0-64ba-44ce-b585-ff005abb9f57) |
+| ![image](https://github.com/user-attachments/assets/a6b6a59c-a2e1-4c4b-b6a2-37357f93cdb8) | ![image](https://github.com/user-attachments/assets/654d817a-3fed-40b8-8d63-d3bf4839ee5b) |
+| ![image](https://github.com/user-attachments/assets/3685145e-97ed-45d2-883d-54db2d5f9b1a) | ![image](https://github.com/user-attachments/assets/74f38977-d210-40fa-be96-af8c7f2dfcb9) |
+| ![image](https://github.com/user-attachments/assets/3ae533fc-3081-4a49-af62-63ad4a42617c) | ![image](https://github.com/user-attachments/assets/c9a9e8c5-21cc-4e2c-96c8-43ec7c1dd175) |
+| ![image](https://github.com/user-attachments/assets/6ae4b93b-b073-4e3e-aba8-882b581dc7f4) | ![image](https://github.com/user-attachments/assets/30d864c4-7b2d-4d8b-af86-be3d430f4492) |
 ### 5-3. 보안 및 운영 자동화
 ### 5-4. 분산 시스템 및 데이터 처리 최적화
 ### 5-5. 성능 최적화 및 모니터링 구축
