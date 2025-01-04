@@ -118,11 +118,11 @@
 ### 5-5. 성능 최적화 및 모니터링 구축
 | ![image](https://github.com/user-attachments/assets/275119f0-758a-42c4-a83a-346da0097ee2) | ![image](https://github.com/user-attachments/assets/8579cb3e-4b73-4f28-b026-d0dcb2d754c5) |
 | --- | --- |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| ![image](https://github.com/user-attachments/assets/3e45fdb2-94dd-4842-95a3-fa0a05de29c6) | ![image](https://github.com/user-attachments/assets/d51af222-e73d-41df-a995-76d29d328e0e) |
+| ![image](https://github.com/user-attachments/assets/62045fea-9e79-46ef-a53b-c9862f1aa48f) | ![image](https://github.com/user-attachments/assets/9f6b349c-b4ea-47be-9bf3-631b31e63782) |
+| ![image](https://github.com/user-attachments/assets/38530f4a-ef10-491c-a7dc-8668acbe5f91) | ![image](https://github.com/user-attachments/assets/8cd8287a-cde2-4376-bc95-11505086e373) |
+| ![image](https://github.com/user-attachments/assets/b9f989a8-140b-4252-8c0b-2846ee8b966c) | ![image](https://github.com/user-attachments/assets/2b5266e5-7df2-4b70-9d04-6e8013cb97f2) |
+| ![image](https://github.com/user-attachments/assets/405b771b-1c6d-4c2b-8cad-88768306525d) | ![image](https://github.com/user-attachments/assets/f5b157b2-2003-4d4d-874f-3ca1cb2d8802) |
 |  |  |
 |  |  |
 |  |  |
