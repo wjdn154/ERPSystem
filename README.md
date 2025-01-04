@@ -128,7 +128,7 @@
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/fb36a92c-9bc8-4e64-91ba-03fd9461dc18) | ![image](https://github.com/user-attachments/assets/6cdfde40-dcb6-4c0d-a38c-9afae32cb3f7) |
 | ![image](https://github.com/user-attachments/assets/85177dc2-da1a-45d7-9c0f-a5b1e593f445) | ![image](https://github.com/user-attachments/assets/a0f5fe30-c273-4714-953f-1e873507f893) |
-| ![image](https://github.com/user-attachments/assets/c05aa080-b0ce-4195-8c58-e6ade7a3cc71) |  |
+| ![image](https://github.com/user-attachments/assets/c05aa080-b0ce-4195-8c58-e6ade7a3cc71) | ![image](https://github.com/user-attachments/assets/2d673039-9e30-422a-9a72-8fce37d48d04) |
 
 ## 6. 결론 및 개선방안 (Conclusions & Recommendations)
 
