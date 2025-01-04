@@ -107,7 +107,22 @@
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/3ae533fc-3081-4a49-af62-63ad4a42617c) | ![image](https://github.com/user-attachments/assets/c9a9e8c5-21cc-4e2c-96c8-43ec7c1dd175) |
 | ![image](https://github.com/user-attachments/assets/6ae4b93b-b073-4e3e-aba8-882b581dc7f4) | ![image](https://github.com/user-attachments/assets/30d864c4-7b2d-4d8b-af86-be3d430f4492) |
+| ![image](https://github.com/user-attachments/assets/a2e63140-0e7e-4566-bfe6-885cdb3f1c12) | ![image](https://github.com/user-attachments/assets/abfa30dd-ba0a-4f3a-97e8-e3ddb0d25619) |
+| ![image](https://github.com/user-attachments/assets/aa669b89-6b51-43e0-bb41-90fe204877b4) | ![image](https://github.com/user-attachments/assets/39d9ff6a-b725-4942-b1f2-37b4cfa89e82) |
+| ![image](https://github.com/user-attachments/assets/f46115fb-e097-43c2-8813-bd83baa63831) | ![image](https://github.com/user-attachments/assets/6fcad705-7d11-4acc-b392-3417302c8eea) |
+| ![image](https://github.com/user-attachments/assets/0e2d590f-7329-4165-9dff-ed37384bde2d)
 ### 5-4. 분산 시스템 및 데이터 처리 최적화
+| ![image](https://github.com/user-attachments/assets/275119f0-758a-42c4-a83a-346da0097ee2) | ![image](https://github.com/user-attachments/assets/8579cb3e-4b73-4f28-b026-d0dcb2d754c5) |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 ### 5-5. 성능 최적화 및 모니터링 구축
 ### 5-6. MSA 서비스 분할 및 성능 부하테스트
 
