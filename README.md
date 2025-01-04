@@ -97,7 +97,7 @@
 | ![image](https://github.com/user-attachments/assets/9873e6ee-56ab-4b59-a21b-9c60f2fb0f5b) | ![image](https://github.com/user-attachments/assets/876a4385-d0df-4472-9e9e-0e823fc37eaf) |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/85bf5439-021b-4bf5-9cc9-309ab1a5da92) | ![image](https://github.com/user-attachments/assets/8fe6a92b-6847-405d-8d56-4bc1ec96a82b) |
-| ![image](https://github.com/user-attachments/assets/532b24a7-0478-47f4-91da-c5f5da2e1e59) | ![image](https://github.com/user-attachments/assets/c8f68deb-9b81-4411-82aa-db25143c1130 |
+| ![image](https://github.com/user-attachments/assets/532b24a7-0478-47f4-91da-c5f5da2e1e59) | ![image](https://github.com/user-attachments/assets/c8f68deb-9b81-4411-82aa-db25143c1130) |
 | ![image](https://github.com/user-attachments/assets/8be06091-f0a9-4f7e-bfcb-61f31f9eadac) | ![image](https://github.com/user-attachments/assets/172e8729-60b4-4403-87f1-dfc92e087cbc) |
 | ![image](https://github.com/user-attachments/assets/8be06091-f0a9-4f7e-bfcb-61f31f9eadac) | ![image](https://github.com/user-attachments/assets/172e8729-60b4-4403-87f1-dfc92e087cbc) |
 ### 5-3. 보안 및 운영 자동화
