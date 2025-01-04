@@ -99,10 +99,13 @@
 | ![image](https://github.com/user-attachments/assets/85bf5439-021b-4bf5-9cc9-309ab1a5da92) | ![image](https://github.com/user-attachments/assets/8fe6a92b-6847-405d-8d56-4bc1ec96a82b) |
 | ![image](https://github.com/user-attachments/assets/532b24a7-0478-47f4-91da-c5f5da2e1e59) | ![image](https://github.com/user-attachments/assets/c8f68deb-9b81-4411-82aa-db25143c1130) |
 | ![image](https://github.com/user-attachments/assets/8be06091-f0a9-4f7e-bfcb-61f31f9eadac) | ![image](https://github.com/user-attachments/assets/172e8729-60b4-4403-87f1-dfc92e087cbc) |
-| ![image](https://github.com/user-attachments/assets/b61d056b-30fd-4989-92cd-40a8a0ca50c7) | ![image](https://github.com/user-attachments/assets/044750e0-64ba-44ce-b585-ff005abb9f57) |
-| ![image](https://github.com/user-attachments/assets/a6b6a59c-a2e1-4c4b-b6a2-37357f93cdb8) | ![image](https://github.com/user-attachments/assets/654d817a-3fed-40b8-8d63-d3bf4839ee5b) |
 
 ### 5-3. 보안 및 운영 자동화
+| ![image](https://github.com/user-attachments/assets/b61d056b-30fd-4989-92cd-40a8a0ca50c7) | ![image](https://github.com/user-attachments/assets/044750e0-64ba-44ce-b585-ff005abb9f57) |
+| --- | --- |
+| ![image](https://github.com/user-attachments/assets/a6b6a59c-a2e1-4c4b-b6a2-37357f93cdb8) | ![image](https://github.com/user-attachments/assets/654d817a-3fed-40b8-8d63-d3bf4839ee5b) |
+
+### 5-4. 분산 시스템 및 데이터 처리 최적화
 | ![image](https://github.com/user-attachments/assets/3685145e-97ed-45d2-883d-54db2d5f9b1a) | ![image](https://github.com/user-attachments/assets/74f38977-d210-40fa-be96-af8c7f2dfcb9) |
 | --- | --- |
 | ![image](https://github.com/user-attachments/assets/3ae533fc-3081-4a49-af62-63ad4a42617c) | ![image](https://github.com/user-attachments/assets/c9a9e8c5-21cc-4e2c-96c8-43ec7c1dd175) |
@@ -111,7 +114,8 @@
 | ![image](https://github.com/user-attachments/assets/aa669b89-6b51-43e0-bb41-90fe204877b4) | ![image](https://github.com/user-attachments/assets/39d9ff6a-b725-4942-b1f2-37b4cfa89e82) |
 | ![image](https://github.com/user-attachments/assets/f46115fb-e097-43c2-8813-bd83baa63831) | ![image](https://github.com/user-attachments/assets/6fcad705-7d11-4acc-b392-3417302c8eea) |
 | ![image](https://github.com/user-attachments/assets/0e2d590f-7329-4165-9dff-ed37384bde2d)
-### 5-4. 분산 시스템 및 데이터 처리 최적화
+
+### 5-5. 성능 최적화 및 모니터링 구축
 | ![image](https://github.com/user-attachments/assets/275119f0-758a-42c4-a83a-346da0097ee2) | ![image](https://github.com/user-attachments/assets/8579cb3e-4b73-4f28-b026-d0dcb2d754c5) |
 | --- | --- |
 |  |  |
@@ -123,7 +127,6 @@
 |  |  |
 |  |  |
 |  |  |
-### 5-5. 성능 최적화 및 모니터링 구축
 ### 5-6. MSA 서비스 분할 및 성능 부하테스트
 
 ## 6. 결론 및 개선방안 (Conclusions & Recommendations)
