@@ -1,5 +1,7 @@
 # Think Global, Act Local ERP System
 
+[![유튜브 동영상](https://img.youtube.com/vi/v5gGqsoBppY/0.jpg)](https://www.youtube.com/watch?v=v5gGqsoBppY)
+
 ## 1. 프로젝트 개요 (Project Overview)
 
 이 프로젝트는 클라우드 환경에서 확장 가능한 ERP 시스템을 구축하기 위해 세 단계로 진행되었습니다.  
