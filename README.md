@@ -1,6 +1,14 @@
 # Think Global, Act Local ERP System
 
-[![유튜브 동영상](https://img.youtube.com/vi/v5gGqsoBppY/0.jpg)](https://www.youtube.com/watch?v=v5gGqsoBppY)
+<p align="center">
+    <a href="https://www.youtube.com/watch?v=v5gGqsoBppY">
+        <img src="https://img.youtube.com/vi/v5gGqsoBppY/0.jpg" alt="ERP 시스템 시연 영상" width="80%">
+    </a>
+</p>
+
+<p align="center">
+    <strong>ERP 시스템 시연 영상</strong> - 클릭하여 확인하세요.
+</p>
 
 ## 1. 프로젝트 개요 (Project Overview)
 
