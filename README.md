@@ -93,7 +93,7 @@
 ## 5. 주요 과제 (Key challenges)
 
 ### 5-1. 멀티테넌트 아키텍처와 데이터 관리
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; border-spacing: 0; padding: 0; margin: 0;">
   <tr>
     <td><img src="https://github.com/user-attachments/assets/86282f71-d6e1-4552-82e8-aa787dc581a8" style="width: 100%;"></td>
     <td><img src="https://github.com/user-attachments/assets/86bf91fc-ef85-47f1-9b07-81e300f6f800" style="width: 100%;"></td>
