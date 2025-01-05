@@ -93,29 +93,51 @@
 ## 5. 주요 과제 (Key challenges)
 
 ### 5-1. 멀티테넌트 아키텍처와 데이터 관리
-<table style="width: 100%; table-layout: fixed; border-spacing: 0;">
+<table style="width: 100%; table-layout: fixed; border-spacing: 0; border-collapse: collapse;">
   <tr>
-    <td style="background: url('https://github.com/user-attachments/assets/86282f71-d6e1-4552-82e8-aa787dc581a8') no-repeat center center; background-size: cover; height: 300px;"></td>
-    <td style="background: url('https://github.com/user-attachments/assets/86bf91fc-ef85-47f1-9b07-81e300f6f800') no-repeat center center; background-size: cover; height: 300px;"></td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/86282f71-d6e1-4552-82e8-aa787dc581a8" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/86bf91fc-ef85-47f1-9b07-81e300f6f800" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
   </tr>
   <tr>
-    <td style="background: url('https://github.com/user-attachments/assets/4f770715-4563-4c2a-ba16-a542c9dd0c26') no-repeat center center; background-size: cover; height: 300px;"></td>
-    <td style="background: url('https://github.com/user-attachments/assets/9e84951c-5952-489f-ba2b-fb29d3ffe80f') no-repeat center center; background-size: cover; height: 300px;"></td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/4f770715-4563-4c2a-ba16-a542c9dd0c26" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/9e84951c-5952-489f-ba2b-fb29d3ffe80f" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
   </tr>
   <tr>
-    <td style="background: url('https://github.com/user-attachments/assets/4d0b5671-8f7d-484f-b421-72bf235d3e0d') no-repeat center center; background-size: cover; height: 300px;"></td>
-    <td style="background: url('https://github.com/user-attachments/assets/50e7f625-7ee6-4b45-a06c-acfd68a60c10') no-repeat center center; background-size: cover; height: 300px;"></td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/4d0b5671-8f7d-484f-b421-72bf235d3e0d" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/50e7f625-7ee6-4b45-a06c-acfd68a60c10" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
   </tr>
   <tr>
-    <td style="background: url('https://github.com/user-attachments/assets/412995f9-34c4-4d39-ab81-969ebd0cc28e') no-repeat center center; background-size: cover; height: 300px;"></td>
-    <td style="background: url('https://github.com/user-attachments/assets/95c2ad12-68bf-4a77-8770-a7924a7d053b') no-repeat center center; background-size: cover; height: 300px;"></td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/412995f9-34c4-4d39-ab81-969ebd0cc28e" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/95c2ad12-68bf-4a77-8770-a7924a7d053b" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
   </tr>
   <tr>
-    <td style="background: url('https://github.com/user-attachments/assets/c8ff2037-11dd-4ed4-a40f-4c49d4a67770') no-repeat center center; background-size: cover; height: 300px;"></td>
-    <td style="background: url('https://github.com/user-attachments/assets/11dd2b82-41bc-4174-838a-4f081d8a3622') no-repeat center center; background-size: cover; height: 300px;"></td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/c8ff2037-11dd-4ed4-a40f-4c49d4a67770" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
+    <td style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/11dd2b82-41bc-4174-838a-4f081d8a3622" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
   </tr>
   <tr>
-    <td colspan="2" style="background: url('https://github.com/user-attachments/assets/22b2a4d3-0f38-4358-be39-bd0939b8ca47') no-repeat center center; background-size: cover; height: 300px;"></td>
+    <td colspan="2" style="padding: 0; margin: 0;">
+      <img src="https://github.com/user-attachments/assets/22b2a4d3-0f38-4358-be39-bd0939b8ca47" style="width: 100%; height: 300px; object-fit: cover;">
+    </td>
   </tr>
 </table>
 
