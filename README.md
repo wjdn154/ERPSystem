@@ -130,8 +130,10 @@
 | ![image](https://github.com/user-attachments/assets/3e45fdb2-94dd-4842-95a3-fa0a05de29c6) | ![image](https://github.com/user-attachments/assets/d51af222-e73d-41df-a995-76d29d328e0e) |
 | ![image](https://github.com/user-attachments/assets/62045fea-9e79-46ef-a53b-c9862f1aa48f) | ![image](https://github.com/user-attachments/assets/9f6b349c-b4ea-47be-9bf3-631b31e63782) |
 | ![image](https://github.com/user-attachments/assets/38530f4a-ef10-491c-a7dc-8668acbe5f91) | ![image](https://github.com/user-attachments/assets/8cd8287a-cde2-4376-bc95-11505086e373) |
-| ![image](https://github.com/user-attachments/assets/b9f989a8-140b-4252-8c0b-2846ee8b966c) | ![image](https://github.com/user-attachments/assets/2b5266e5-7df2-4b70-9d04-6e8013cb97f2) |
-| ![image](https://github.com/user-attachments/assets/405b771b-1c6d-4c2b-8cad-88768306525d) | ![image](https://github.com/user-attachments/assets/f5b157b2-2003-4d4d-874f-3ca1cb2d8802) |
+| ![image](https://github.com/user-attachments/assets/1eb90ad4-b4a8-41a9-b65a-ee228ae8dd53) | ![image](https://github.com/user-attachments/assets/b9f989a8-140b-4252-8c0b-2846ee8b966c) |
+| ![image](https://github.com/user-attachments/assets/2b5266e5-7df2-4b70-9d04-6e8013cb97f2) | ![image](https://github.com/user-attachments/assets/405b771b-1c6d-4c2b-8cad-88768306525d) |
+| ![image](https://github.com/user-attachments/assets/f5b157b2-2003-4d4d-874f-3ca1cb2d8802)
+
 ### 5-6. MSA 서비스 분할 및 성능 부하테스트
 | ![image](https://github.com/user-attachments/assets/f43dcc03-84ed-41e0-a545-2dcab27c0216) | ![image](https://github.com/user-attachments/assets/3b0ae331-4a6d-486f-bbeb-fa4ee6db12ee) |
 | --- | --- |
